@@ -47,13 +47,18 @@ python POSTURE.py
 计算左右眼、左右耳之间的水平倾斜角度。如果两个角度都超过 10°，则判断为倾斜。
 
 ## 示例
-![示例1](sitting_position\示列1.png)
 
-![示例2](sitting_position\示列2.png)
+Good Posture:\
+![示例1](img/示列1.png)
 
-![示例3](sitting_position\示列3.png)
+Bad Posture(前倾):\
+![示例2](img/示列2.png)
 
-![示例4](sitting_position\示列4.png)
+Bad Posture(左倾):\
+![示例3](img/示列3.png)
+
+Bad Posture(右倾):\
+![示例4](img/示列4.png)
 
 
 ## 参考
